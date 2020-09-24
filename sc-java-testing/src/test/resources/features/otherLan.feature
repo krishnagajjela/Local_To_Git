@@ -1,0 +1,8 @@
+# language: da
+# encoding: utf-8
+Egenskab: prøve ansøgning For at teste login side Som registreret bruger Jeg ønsker at angive login betingelser
+
+  Scenarie: prøve scenario
+    Givet brugeren er på ansøgning side
+    Når brugeren klikker login knap
+    Så Derefter bruger er på hjemmesiden
